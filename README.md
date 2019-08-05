@@ -1,3 +1,5 @@
+Dung no moi cho
+
 Initializing a Repository and Making Commits
 =========================
 
